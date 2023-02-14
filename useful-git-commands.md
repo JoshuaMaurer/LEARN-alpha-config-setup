@@ -39,3 +39,9 @@
 - main - the branch that is the source of truth - camand to navigate between branched
 - checkout -b = creates a new branch that doesn't currently exist
 - deleteing a branch - has to be deleted on local and on github
+
+#### Branching Commands
+- $ `git checkout -b branch-name` - creates a new branch that doesn't exist yet
+- $ `git branch` - lists all the current banches on your local
+- $ `git branch -d branch-name` - deletes a branch when you are done
+- $ `git checkout main` - navigates back tothe main branch
